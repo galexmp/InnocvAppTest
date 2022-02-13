@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">InnovcvAppTest</string>
+    <string name="eq_empty_view_message">No data to show.</string>
+    <string name="add_button">Add button</string>
+    <string name="username">Username</string>
+    <string name="birthdate">Birthdate format dd/MM/yyyy</string>
+    <string name="id">Id</string>
+    <string name="no_internet_connection_msg">No internet connection</string>
+    <string name="error_msg">Something was wrong. Try later!</string>
+    <string name="reload">Reload</string>
 </resources>
